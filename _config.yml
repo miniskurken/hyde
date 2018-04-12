@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Toughts
-tagline:          'Waist deep in studies'
+tagline:          'Will you listen?'
 description:      '@Skurken.se you have the possibility to follow some of the worth to mention toughts brought to life from studying the field of Computer Science.'
 url:              https://skurken.se
 baseurl:          ../
@@ -21,5 +21,5 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
+github:           miniskurken
   repo:           https://github.com/miniskurken
