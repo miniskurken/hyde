@@ -10,7 +10,7 @@ title:            Toughts
 tagline:          'Waist deep in studies'
 description:      '@Skurken.se you have the possibility to follow some of the worth to mention toughts brought to life from studying the field of Computer Science.'
 url:              https://skurken.se
-baseurl:          /
+baseurl:          https://skurken.se
 
 author:
   name:           'Sebastian Lhådö'
