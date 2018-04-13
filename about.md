@@ -3,28 +3,27 @@ layout: page
 title: About
 ---
 
+## Who I am
+
+A computer science student evolved in a lot of fun things! Besides studying in Uppsala, Sweden I run a IT-Firm together with two friends whom I met during my first year as a student in Uppsala.
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Are you an employer looking for a new developer to help the company reach new heights? Why not send me a message, cause you guessed it! I'm looking for employment after my studies!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+### The holy spare time
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Develops random stuff & Climbing and being evolved in a initiative called Kodstugan. The newly started initiative is a way for students at Uppsala university to get together and meet other students with interest in the field of software development.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The reason for starting Kodstugan was the lack of help Uppsala university gives when it comes to coding. Even though we read at least one course around software development per period there have been very small effort from the university side to give students a place to get help with school work related to courses.
+Since starting kodstugan we've gone from only gathering and doing coursework to host events together with local companies related to the IT-sector.
 
-## Setup
+Couple of related events we've hosted are CodeJams, Lectures & Workshops.
 
-Some fun facts about the setup of this project include:
+### Learnings
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+From two years of studying computer science during that time having my own company on the side, I've learned how important it is to take responsibility and more so the importance of communication.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+There is literally to much to write down, I'd recommend reading my [Curriculum vitae](http://skurken.se/CV)
 
-Thanks for reading!
