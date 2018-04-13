@@ -277,6 +277,12 @@ tbody tr:nth-child(odd) th {
   color: #717171;
   background-color: #f9f9f9;
 }
+.message-y {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: hsl(51, 100%, 69%);
+}
 
 
 /*

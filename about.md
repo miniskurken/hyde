@@ -7,12 +7,12 @@ title: About
 
 A computer science student evolved in a lot of fun things! Besides studying in Uppsala, Sweden I run a IT-Firm together with two friends whom I met during my first year as a student in Uppsala.
 
-<p class="message">
+<p class="message-y">
   Hey there! Are you an employer looking for a new developer to help the company reach new heights? Why not send me a message, cause you guessed it! I'm looking for employment after my studies!
 </p>
 
 
-### The holy spare time
+## The holy spare time
 
 Is spent best developing new projects or working with pushing Kodstugan to new heights. Kodstugan is a newly started initiative created for the sole reason to give students a way to get together and meet other students with interest in the field of software development.
 
@@ -21,7 +21,7 @@ Since starting kodstugan we've gone from only gathering and doing coursework to 
 
 Couple of related events we've hosted are CodeJams, Lectures & Workshops.
 
-### Learnings
+## Learnings
 
 From two years of studying computer science during that time having my own company on the side, I've learned how important it is to take responsibility and more so the importance of communication.
 
