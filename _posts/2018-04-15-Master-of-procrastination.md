@@ -3,7 +3,7 @@ layout: post
 title: Master of procrastination
 ---
 
-Today I woke up way to late for my own good, and to make it all even worse. Instead of putting the effort into learning Golang, something required of me in the course of Operating Systems and Process-Oriented Programming, I decided to take the next best bus into Ikea and buy furniture for the room i'm soon to leave.
+Today I woke up way to late for my own good, and to make it all even worse. Instead of putting the effort into learning Golang, something required of me in the course of Operating Systems and Process-Oriented Programming. I decided to take the next best bus to Ikea and buy furniture for the room i'm soon leaving...
 
 And the reason for it? Just did not have enough of pillows to feel comfortable while coding laying in bed.
 
