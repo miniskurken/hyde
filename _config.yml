@@ -16,6 +16,8 @@ author:
   name:           'Sebastian Lhådö'
   url:            https://linkedin.com/in/sebastianlhado
 
+highlighter:      rouge
+
 paginate:         2
 
 # Custom vars
