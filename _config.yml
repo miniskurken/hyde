@@ -80,7 +80,7 @@ social-share: true
 social-share-items: ['twitter', 'facebook']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
-baidu: false
+baidu: true
 baidu-url: ''
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: false
