@@ -24,14 +24,14 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: ['github', 'Twitter', 'instagram', 'Codepen']
+SNS-icon: ['github', 'Twitter', 'instagram']
 mail: 'mailto:sebastian@gjssolutions.se'
 weixin: '' # 你的微信二维码存放的地址
 qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-github: ''
+github: 'https://github.com/miniskurken'
 Codepen: ''
 weibo: ''
-instagram: ''
+instagram: 'https://www.instagram.com/sebbelhado/'
 Twitter: ''
 Dribbble: ''
 Facebook: ''
