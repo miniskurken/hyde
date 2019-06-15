@@ -16,7 +16,7 @@ Why is there that when I need something finished, it will rarely get done, but i
 
 However, I've just started to tackle the problem of focusing on the project it in itself is to write a thesis about Logging, Metrics & Tracing. To create a good paper, I feel the need to read through multiple long pieces of research and books regarding the subject. So what's my way of trying to keep the focus on the report for now?
 
-**Here come the multiple steps I take:**
+### **Here come the multiple steps I take:**
 
 1. Start your day with a routine.
 Saying this sounds so cliché, but it is helping me tremendously with keeping the focus throughout the day. The thing is it could be almost anything that will clear your head for a while, for instance, what I do is sit down, put on music, and draw for an hour or two. But maybe what you need is a healthy breakfast where you solve a crossword while eating? **No one knows except you.**
