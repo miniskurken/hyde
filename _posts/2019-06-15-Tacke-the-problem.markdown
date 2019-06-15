@@ -4,7 +4,7 @@ title:  "Tackle the problem of writing the Thesis"
 date:   2019-06-15 03:28:21 +0700
 tags: Thesis Productivity
 color: rgb(157,234,102)
-cover: '../assets/test.png'
+cover: '../assets/productivity.jpg'
 subtitle: 'My way of preparing? Non existing...'
 ---
 
