@@ -8,7 +8,7 @@ cover: '../assets/productivity.jpg'
 subtitle: 'My way of preparing?'
 ---
 
-**Productivity**, *how do we achieve it?*
+**Productivity**, *how do we achieve it?*  
 A good question I've woken up and thought for the last two weeks. But it never comes to a straight answer, never have I come to a conclusion of *"This is how I'm supposed to do it."*
 
 Why is there that when I need something finished, it will rarely get done, but if a friend of mine asks for help, it will always get done?
