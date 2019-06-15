@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tackle the problem of writing the Thesis"
+title:  "Tackle the problem!"
 date:   2019-06-15 03:28:21 +0700
-tags: Thesis Productivity
+tags: Productivity
 color: rgb(241,182,2)
 cover: '../assets/productivity.jpg'
 subtitle: 'My way of preparing?'
