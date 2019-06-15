@@ -19,11 +19,8 @@ NickName: 'Miniskurken'
 webtitle: 'Gathered thoughts'
 bio: 'Traveling & Developing is there more to life?'
 about: true
-aboutyou: 'As a kid, I have always been intrigued by problem-solving and the feeling you get after solving a specific hard problem. As I grew older, I continued in the path I dreamt of as a kid and have never looked back since.
+aboutyou: 'As a kid, I have always been intrigued by problem-solving and the feeling you get after solving a specific hard problem. As of now I am working as a software developer for Valtech, and have my main focus in back-end development but still find enjoyment in the graphical work!'
 
-I am currently working as a software developer for Valtech, and have my main focus in back-end development but still find enjoyment in the graphical work!
-
-Here you can follow my thoughts and realizations I make as get through my days in life.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
