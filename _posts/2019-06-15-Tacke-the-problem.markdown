@@ -14,7 +14,7 @@ A good question I've woken up and thought for the last two weeks. But it never c
 
 Why is there that when I need something finished, it will rarely get done, but if a friend of mine asks for help, it will always get done?
 
-However, I've just started to tackle the problem of focusing on the project it in itself is to write a thesis about Logging, Metrics & Tracing. To create a good paper, I feel the need to read through multiple long pieces of research and books regarding the subject. So what's my way of trying to keep the focus on the report for now?
+However, I've just started to tackle the problem of focusing on the project it in itself is to write a thesis about **Logging, Metrics & Tracing**. To create a good paper, I feel the need to read through multiple long pieces of research and books regarding the subject. So what's my way of trying to keep the focus on the report for now?
 
 ### **Here come the multiple steps I take:**
 
